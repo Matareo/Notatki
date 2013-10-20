@@ -5,6 +5,7 @@
 "tree" - lista katalogów i pliów
 
 "ls" - lista katalogów i plików uproszczona:
+
 a) "-a" - wszystkie
 b) "-l" - Oprócz nazwy każdego pliku, wypisuje  jego  typ,  prawa,  liczbę
               dowiązań  twardych,  właściciela,  grupę,  rozmiar  w  bajtach i
