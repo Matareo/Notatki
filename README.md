@@ -22,3 +22,12 @@ b) "-l" - Oprócz nazwy każdego pliku, wypisuje  jego  typ,  prawa,  liczbę
 "whoami" - kim jestem
 
 "finger ....." - dane użytkownika ......
+
+"man ......" - manual ...... (q - wyjście)
+
+"cd ...." - cd +nazwa katalogu albo ścieżka /...../....
+
+"mv nazwa pliku nowa nazwa"
+
+"cp plik.txt ~/..../...." - kopiowanie
+
