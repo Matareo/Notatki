@@ -17,3 +17,8 @@ b) "-l" - Oprócz nazwy każdego pliku, wypisuje  jego  typ,  prawa,  liczbę
 
 "cp" - kopia
 
+"mc" - Midnight Commander
+
+"whoami" - kim jestem
+
+"finger ....." - dane użytkownika ......
